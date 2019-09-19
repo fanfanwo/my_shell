@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "hello shell"
+echo "修改一个文件的权限为可执行，就是一个shell文件"
+echo "chmod u+x fileName:"
